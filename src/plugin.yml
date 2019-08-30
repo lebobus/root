@@ -1,0 +1,16 @@
+main: me.lebobus.root.Main
+name: root
+version: '1.0'
+description: Vous dormez au gaz
+author: Bobus
+commands:
+     ffa:
+     kts:
+     ban:
+     unban:
+     kick:
+     stats:
+     addcredits:
+     takecredits:
+     shop:
+     logs:

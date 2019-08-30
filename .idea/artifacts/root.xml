@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="root">
+    <output-path>$PROJECT_DIR$/out/artifacts/root</output-path>
+    <root id="archive" name="root.jar">
+      <element id="module-output" name="root" />
+      <element id="file-copy" path="$PROJECT_DIR$/../spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" />
+    </root>
+  </artifact>
+</component>
